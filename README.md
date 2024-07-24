@@ -1,4 +1,4 @@
-Download as ZIP:
+**Download as ZIP:**
 
 On the main page of the repository, look for a green button that says "Code" (usually found near the top-right corner of the repository page).
 Click on the "Code" button.
